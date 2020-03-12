@@ -465,6 +465,21 @@
     "datumregistracije":"",
     "sajt":"https://srcezadecu.blogspot.com/"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.647672,44.876535 ]
+    },
+    "properties": {
+    "naziv":"Подружница друштва математичара Србије-Панчево",
+    "maticnibroj":8852863,
+    "mesto":"Панчево",
+    "sifradelatnosti":9412,
+    "datumregistracije":"05.05.11 03:33",
+    "sajt":"http://www.dmspancevo.org.rs/ "
+    }
   }
 ]
 }
