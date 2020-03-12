@@ -1,0 +1,556 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.668914,44.861222 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Мирослав Антић — Мика“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Душана Петровића Шанета 11",
+    "sajt":"https://www.osmantic.edu.rs/",
+    "telefon":"+381 13 316 449",
+    "eposta":"osantic@panet.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.660240,44.875782 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Исидора Секулић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Сердара Јанка Вукотића 7",
+    "sajt":"https://www.isidorasekulic.edu.rs/",
+    "telefon":"+381 13 231 59 65",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.642632,44.872086 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Јован Јовановић Змај“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Змај Јове Јовановића 3",
+    "sajt":"http://www.zmajpancevo.edu.rs/",
+    "telefon":"+381 13 346 023",
+    "eposta":"osjjzmajpa@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.649333,44.864315 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Бранко Радичевић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Владимира Жестића 21",
+    "sajt":"http://osbradicevicpancevo.edu.rs/",
+    "telefon":"",
+    "eposta":"os.bradicevic@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.635417,44.877495 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Васа Живковић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Карађорђева 87",
+    "sajt":"",
+    "telefon":"",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.660090,44.853066 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Борисав Петров Браца“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Жарка Зрењанина 179",
+    "sajt":"http://osborisavpetrovbraca.edu.rs/",
+    "telefon":"+381 13 236 70 07",
+    "eposta":"osbraca@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.668495,44.853902 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Братство-јединство“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Шандора Петефија 33-35",
+    "sajt":"http://osbratstvo.edu.rs/",
+    "telefon":"+381 13 348 080",
+    "eposta":"osbj72@gmail.com",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.646591,44.875692 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Стевица Јовановић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Браће Јовановића 75",
+    "sajt":"http://osstevica.edu.rs/",
+    "telefon":"+381 13 319 166",
+    "eposta":"osstevica@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.669631,44.876567 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Свети Сава“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Војвођанска бб",
+    "sajt":"http://www.svetisavapancevo.edu.rs/",
+    "telefon":"+381 13 318 859",
+    "eposta":"svsavapancevo@sbb.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.706058,44.805154 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Вук Стефановић Караџић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Старчево",
+    "adresa":"Иве Лоле Рибара 2",
+    "sajt":"http://www.osvkaradzic.edu.rs/",
+    "telefon":"+381 13 631 955",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.737883,44.758483 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Доситеј Обрадовић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Омољица",
+    "adresa":"Трг Светог Саве 3",
+    "sajt":"https://osobradovic.weebly.com/",
+    "telefon":"+381 13 617 014",
+    "eposta":"osdo.sekretar@gmail.com",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.696705,44.740639 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Моша Пијаде“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Иваново",
+    "adresa":"29. новембра 56-58",
+    "sajt":"https://osmosapijadeivanovo.weebly.com/",
+    "telefon":"+381 13 629 106",
+    "eposta":"osivanovo@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.803015,44.728812 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Олга Петров“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Банатски Брестовац",
+    "adresa":"",
+    "sajt":"https://olgapetrovbb.wordpress.com/",
+    "telefon":"",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.880096,44.904440 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Аксентије Максимовић“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Долово",
+    "adresa":"",
+    "sajt":"",
+    "telefon":"",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.784463,44.992096 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Жарко Зрењанин“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Банатско Ново Село",
+    "adresa":"Маршала Тита 75",
+    "sajt":"https://www.oszarkozrenjanin.edu.rs/",
+    "telefon":"+381 13 615 003",
+    "eposta":"zarkoz@panet.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.594383,44.948656 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Гоце Делчев“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Јабука",
+    "adresa":"Трг Бориса Кидрича 10",
+    "sajt":"https://osjabuka.edu.rs/",
+    "telefon":"+381 13 262 40 59",
+    "eposta":"direktor@osjabuka.edu.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.524652,44.985041 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „4. октобар“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Глогоњ",
+    "adresa":"",
+    "sajt":"http://www.4oktobar.edu.rs/",
+    "telefon":"+381 13 627 030",
+    "eposta":"skolaglogonj@gmail.com",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.699688,44.967483 ]
+    },
+    "properties": {
+    "naziv":"Основна школа „Жарко Зрењанин“",
+    "nivo":"o",
+    "tip":"d",
+    "mesto":"Качарево",
+    "adresa":"",
+    "sajt":"http://zzrenjanin.edu.rs/",
+    "telefon":"",
+    "eposta":"",
+    "ednevnik":"1",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.654480,44.867685 ]
+    },
+    "properties": {
+    "naziv":"Медицинска школа „Стевица Јовановић“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Пастерова 2",
+    "sajt":"http://medicinskapancevo.edu.rs/sr/",
+    "telefon":"+381 13 331 390",
+    "eposta":"direktormedicinskapa@gmail.com",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.644051,44.868538 ]
+    },
+    "properties": {
+    "naziv":"Електротехничка школа „Никола Тесла“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Максима Горког 7",
+    "sajt":"http://etsntesla.edu.rs/",
+    "telefon":"+381 13 235 26 15",
+    "eposta":"etsntesla@etsntesla.edu.rs",
+    "ednevnik":"1",
+    "eucenje":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.637807,44.870572 ]
+    },
+    "properties": {
+    "naziv":"Гимназија „Урош Предић“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Игњата Барајевца 5",
+    "sajt":"http://www.gimnazijaurospredic.edu.rs/",
+    "telefon":"+381 13 301 120",
+    "eposta":"direktor@gimnazijaurospredic.edu.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.649509,44.877432 ]
+    },
+    "properties": {
+    "naziv":"Машинска школа Панчево",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Браће Јовановића 103А",
+    "sajt":"https://www.masinska.edu.rs/",
+    "telefon":"+381 13 316 396",
+    "eposta":"office@masinska.edu.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.654191,44.877816 ]
+    },
+    "properties": {
+    "naziv":"Економско-трговинска школа „Паја Маргановић“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Ослобођења 25",
+    "sajt":"http://www.ekosko.edu.rs/",
+    "telefon":"+381 13 314 349",
+    "eposta":"ekoskopa@gmail.com",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.660446,44.883529 ]
+    },
+    "properties": {
+    "naziv":"Пољопривредна школа „Јосиф Панчић“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Новосељански пут 31",
+    "sajt":"https://jpancic.edu.rs/",
+    "telefon":"+381 13 219 00 22",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.648082,44.876570 ]
+    },
+    "properties": {
+    "naziv":"Техничка школа „23. мај“",
+    "nivo":"s",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Браће Јовановића 89",
+    "sajt":"http://www.skola23maj.edu.rs/",
+    "telefon":"+381 13 318 977",
+    "eposta":"office@skola23maj.edu.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.641884,44.870152 ]
+    },
+    "properties": {
+    "naziv":"Музичка школа „Јован Бандур“",
+    "nivo":"sp",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Војводе Живојина Мишића 3",
+    "sajt":"http://www.muzickaskolapancevo.edu.rs/",
+    "telefon":"+381 13 345 976",
+    "eposta":"jbandur@panet.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.643182,44.866988 ]
+    },
+    "properties": {
+    "naziv":"Балетска школа „Димитрије Парлић“",
+    "nivo":"sp",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Жарка Зрењанина 25",
+    "sajt":"https://dimitrijeparlic.rs/",
+    "telefon":"+381 13 351 649",
+    "eposta":"dimitrijeparlic@mts.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.638333,44.869862 ]
+    },
+    "properties": {
+    "naziv":"Школа „Визија“",
+    "nivo":"s",
+    "tip":"p",
+    "mesto":"Панчево",
+    "adresa":"Вука Караџића 1",
+    "sajt":"http://www.skolavizija.rs/",
+    "telefon":"+381 13 355 058",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.659596,44.852827 ]
+    },
+    "properties": {
+    "naziv":"Стоматолошки факултет Панчево",
+    "nivo":"f",
+    "tip":"p",
+    "mesto":"Панчево",
+    "adresa":"Жарка Зрењанина 179",
+    "sajt":"https://stomatoloskifakultet.rs/",
+    "telefon":"+381 13 235 12 92",
+    "eposta":"info@sfp.rs",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  }
+]
+}
