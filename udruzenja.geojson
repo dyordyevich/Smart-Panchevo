@@ -450,6 +450,21 @@
     "datumregistracije":"08.09.17 02:23",
     "sajt":"https://zelenastrana.rs/"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.663285,44.867320 ]
+    },
+    "properties": {
+    "naziv":"УДРУЖЕЊЕ ГРАЂАНА СРЦЕ ЗА ДЕЦУ ПАНЧЕВА",
+    "maticnibroj":28297394,
+    "mesto":"Панчево",
+    "sifradelatnosti":9499,
+    "datumregistracije":"",
+    "sajt":"https://srcezadecu.blogspot.com/"
+    }
   }
 ]
 }
