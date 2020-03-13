@@ -13,7 +13,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"12.04.10 03:47",
-    "sajt":"http://aumm.yolasite.com/"
+    "sajt":"http://aumm.yolasite.com/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -28,7 +31,10 @@
     "mesto":"Долово",
     "sifradelatnosti":9499,
     "datumregistracije":"30.03.17 09:22",
-    "sajt":"http://gradjanskaneposlusnost-dolovo.blogspot.com/  "
+    "sajt":"http://gradjanskaneposlusnost-dolovo.blogspot.com/  ",
+    "prilagodljivost":"0",
+    "pismo":"o",
+    "stranijezik":"0"
     }
   },
   {
@@ -43,7 +49,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"23.07.10 09:50",
-    "sajt":"http://kinoloskodrustvobansif.weebly.com/"
+    "sajt":"http://kinoloskodrustvobansif.weebly.com/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -58,22 +67,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"03.02.12 10:04",
-    "sajt":"http://lashentes.virtuelnopancevo.rs/"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.654534,44.875617 ]
-    },
-    "properties": {
-    "naziv":"ЦЕНТАР ЗА ИНФОРМИСАЊЕ, ОБРАЗОВАЊЕ И ПРЕДУЗЕТНИШТВО ''ОБЛАК\"",
-    "maticnibroj":28256680,
-    "mesto":"Панчево",
-    "sifradelatnosti":9499,
-    "datumregistracije":"08.05.18 03:25",
-    "sajt":"http://oblak.org.rs/"
+    "sajt":"http://lashentes.virtuelnopancevo.rs/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -88,7 +85,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"09.05.13 10:02",
-    "sajt":"http://omnibusradio.net/ "
+    "sajt":"http://omnibusradio.net/ ",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"1"
     }
   },
   {
@@ -103,7 +103,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"10.10.18 02:40",
-    "sajt":"http://sinhro.org/ "
+    "sajt":"http://sinhro.org/ ",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -118,7 +121,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9412,
     "datumregistracije":"02.11.10 11:38",
-    "sajt":"http://ulusvetionik.co.rs/"
+    "sajt":"http://ulusvetionik.co.rs/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"1"
     }
   },
   {
@@ -133,7 +139,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"17.02.10 10:54",
-    "sajt":"http://vatrogascipancevo.rs/"
+    "sajt":"http://vatrogascipancevo.rs/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -148,7 +157,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"04.02.19 03:11",
-    "sajt":"http://www.abcsport.rs/"
+    "sajt":"http://www.abcsport.rs/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -163,7 +175,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"31.12.18 11:01",
-    "sajt":"http://www.mksirius.com/"
+    "sajt":"http://www.mksirius.com/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -178,7 +193,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"01.02.11 10:29",
-    "sajt":"http://www.mladost08.com/"
+    "sajt":"http://www.mladost08.com/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -193,7 +211,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"20.05.11 09:43",
-    "sajt":"http://www.modelscpanon.org/"
+    "sajt":"http://www.modelscpanon.org/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"1"
     }
   },
   {
@@ -208,7 +229,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"17.05.10 01:34",
-    "sajt":"http://www.napolaputa.org/"
+    "sajt":"http://www.napolaputa.org/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -223,7 +247,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"09.11.10 09:11",
-    "sajt":"http://www.panonke.rs/"
+    "sajt":"http://www.panonke.rs/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -238,7 +265,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"09.06.11 01:40",
-    "sajt":"http://www.rotaryklubpancevo.org/"
+    "sajt":"http://www.rotaryklubpancevo.org/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -253,7 +283,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"30.09.10 09:17",
-    "sajt":"http://www.tiketklub.com/"
+    "sajt":"http://www.tiketklub.com/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -268,7 +301,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"12.05.16 08:18",
-    "sajt":"http://www.vesteruke.rs/"
+    "sajt":"http://www.vesteruke.rs/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -283,7 +319,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"12.02.15 08:09",
-    "sajt":"https://013info.rs/"
+    "sajt":"https://013info.rs/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -298,7 +337,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"25.05.16 01:01",
-    "sajt":"https://asocijacijazamlade.org/"
+    "sajt":"https://asocijacijazamlade.org/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -313,7 +355,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"14.06.11 09:45",
-    "sajt":"https://elektrikablog.wordpress.com/"
+    "sajt":"https://elektrikablog.wordpress.com/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -328,7 +373,10 @@
     "mesto":"Омољица",
     "sifradelatnosti":9499,
     "datumregistracije":"06.07.10 11:17",
-    "sajt":"https://kudzisel.weebly.com/"
+    "sajt":"https://kudzisel.weebly.com/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -343,7 +391,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"26.12.18 12:15",
-    "sajt":"https://udruzenjestep.rs/"
+    "sajt":"https://udruzenjestep.rs/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -358,7 +409,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"11.05.11 08:41",
-    "sajt":"https://velikimali.org/"
+    "sajt":"https://velikimali.org/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -373,7 +427,10 @@
     "mesto":"Глогоњ",
     "sifradelatnosti":9499,
     "datumregistracije":"07.04.10 12:10",
-    "sajt":"https://veseliaglogonj.webs.com/"
+    "sajt":"https://veseliaglogonj.webs.com/",
+    "prilagodljivost":"0",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -388,7 +445,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"12.10.17 12:15",
-    "sajt":"https://www.femplatz.org/"
+    "sajt":"https://www.femplatz.org/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"1"
     }
   },
   {
@@ -403,7 +463,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"08.05.18 12:16",
-    "sajt":"https://www.humanaona.org/ "
+    "sajt":"https://www.humanaona.org/ ",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"1"
     }
   },
   {
@@ -418,7 +481,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"23.11.18 02:55",
-    "sajt":"https://www.pansej.org.rs/"
+    "sajt":"https://www.pansej.org.rs/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -433,7 +499,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"15.06.15 11:45",
-    "sajt":"https://www.sopskooro.com/"
+    "sajt":"https://www.sopskooro.com/",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   },
   {
@@ -448,7 +517,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"08.09.17 02:23",
-    "sajt":"https://zelenastrana.rs/"
+    "sajt":"https://zelenastrana.rs/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -463,7 +535,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9499,
     "datumregistracije":"",
-    "sajt":"https://srcezadecu.blogspot.com/"
+    "sajt":"https://srcezadecu.blogspot.com/",
+    "prilagodljivost":"1",
+    "pismo":"l",
+    "stranijezik":"0"
     }
   },
   {
@@ -478,7 +553,10 @@
     "mesto":"Панчево",
     "sifradelatnosti":9412,
     "datumregistracije":"05.05.11 03:33",
-    "sajt":"http://www.dmspancevo.org.rs/ "
+    "sajt":"http://www.dmspancevo.org.rs/ ",
+    "prilagodljivost":"1",
+    "pismo":"c",
+    "stranijezik":"0"
     }
   }
 ]
