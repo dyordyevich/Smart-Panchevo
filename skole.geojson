@@ -551,6 +551,386 @@
     "ednevnik":"",
     "eucenje":""
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.638038,44.878330 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Бубамара“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Светог Саве 89",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 352 059",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.643633,44.874215 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Лептирић“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Браће Јовановића 53",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 319 579",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.645317,44.873242 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Ласта“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Змај Јове Јовановића 19",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 319 436",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.641451,44.867988 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Шврћа“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"др Светислава Касапиновића 1А",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 352 767",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.645737,44.868790 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Кекец“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"др Светислава Касапиновића 21",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 345 340",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.667450,44.861086 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Веверица“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Јована Бијелића бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 312 040",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.660464,44.848994 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Сунце“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Борислава Петрова-Браце 50",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 345 200",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.646309,44.863403 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Лане“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Жарка Зрењанина 57",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 348 141",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.661153,44.871376 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Колибри“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Краља Милана Обреновића 4",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 512 653",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.653868,44.876739 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Звончица“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Ослобођења 23",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 64 877 53 56",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.639827,44.866346 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Цврчак“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Кеј Радоја Дакића бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 345 562",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.651801,44.878762 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Славуј“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Браће Јовановића 115",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 513 979",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.674346,44.845371 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Невен“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Гробљанска 17",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 347 164",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.661891,44.872270 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Бамби“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Краља Милана Обреновића бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 514 045",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.649071,44.870179 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Љиљан“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Милоша Требињца 2-4",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 314 900",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.644298,44.862400 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Пупољак“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Дринска бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 343 067",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.668061,44.864240 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Чуперак“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Вељка Влаховића бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 317 238",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.667864,44.884292 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Петар Пан“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Козарачка бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 373 310",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.647387,44.882347 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Бајка“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Кикиндска бб",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 877 53 71",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.632709,44.877574 ]
+    },
+    "properties": {
+    "naziv":"Вртић „Црвенкапа“",
+    "nivo":"v",
+    "tip":"d",
+    "mesto":"Панчево",
+    "adresa":"Димитрија Туцовића 74",
+    "sajt":"http://decjaradost.rs/",
+    "telefon":"+381 13 317 370",
+    "eposta":"",
+    "ednevnik":"",
+    "eucenje":""
+    }
   }
 ]
 }
